@@ -18,8 +18,7 @@ This application provides access to multiple features that support work organiza
 * HTML
 * CSS
 
-### Screenshots:
-
+### Screenshots
 ![Screenshot 2024-04-15 194150](https://github.com/ZuzannaSlobodzian/php-basics/assets/97484679/49457955-edd6-41b1-9f62-577180980696)
 
 ![Screenshot 2024-04-15 194256](https://github.com/ZuzannaSlobodzian/php-basics/assets/97484679/081e5bcb-04c4-4fc0-ab6a-5d4b899734f6)
